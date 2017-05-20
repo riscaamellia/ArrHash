@@ -9,9 +9,12 @@ public class theRun {
 		HashMap<String, Lokasi> con = new HashMap<>();
 		
 	        con.put("Wagiran", new Lokasi("Wagiran", "Laki-laki", "Malang", "Karangploso", "Tegalgondo", "11"));
-	        con.put("Paniran", new Lokasi("Paniran", "Laki-laki", "Malang", "Karangploso", "Tegalgondo", "9"));
-	        con.put("Sri", new Lokasi("Sri", "Perempuan", "Malang", "Karangploso", "Tegalgondo", "6"));
-	        con.put("Sri", new Lokasi("Sri", "Perempuan", "Malang", "Karangploso", "Tegalgondo", "6"));
+	        con.put("Paniran", new Lokasi("Paniran", "Laki-laki", "Malang", "Lowokwaru", "Jatimulyo", "9"));
+	        con.put("Sri", new Lokasi("Sri", "Perempuan", "Malang", "Sukun", "Bandulan", "6"));
+	        con.put("Siti", new Lokasi("Siti", "Perempuan", "Malang", "Klojen", "Rampal", "3"));
+		con.put("Septi", new Lokasi("Septi", "Perempuan", "Malang", "Klojen", "Kauman", "9"));
+                con.put("Didi", new Lokasi("Didi", "Laki-laki", "Malang", "Klojen", "Kauman", "8"));
+		con.put("Deno", new Lokasi("Deno", "Laki-laki", "Malang", "Klojen", "Kauman", "7"));
 	        
 	        
 	      
